@@ -1,0 +1,15 @@
+D:\COURSE\ASPNET_Course\Assignment01\bin\Debug\net10.0\Assignment01.exe
+D:\COURSE\ASPNET_Course\Assignment01\bin\Debug\net10.0\Assignment01.deps.json
+D:\COURSE\ASPNET_Course\Assignment01\bin\Debug\net10.0\Assignment01.runtimeconfig.json
+D:\COURSE\ASPNET_Course\Assignment01\bin\Debug\net10.0\Assignment01.dll
+D:\COURSE\ASPNET_Course\Assignment01\bin\Debug\net10.0\Assignment01.pdb
+D:\COURSE\ASPNET_Course\Assignment01\obj\Debug\net10.0\Assignment01.GeneratedMSBuildEditorConfig.editorconfig
+D:\COURSE\ASPNET_Course\Assignment01\obj\Debug\net10.0\Assignment01.AssemblyInfoInputs.cache
+D:\COURSE\ASPNET_Course\Assignment01\obj\Debug\net10.0\Assignment01.AssemblyInfo.cs
+D:\COURSE\ASPNET_Course\Assignment01\obj\Debug\net10.0\Assignment01.csproj.CoreCompileInputs.cache
+D:\COURSE\ASPNET_Course\Assignment01\obj\Debug\net10.0\Assignment01.dll
+D:\COURSE\ASPNET_Course\Assignment01\obj\Debug\net10.0\refint\Assignment01.dll
+D:\COURSE\ASPNET_Course\Assignment01\obj\Debug\net10.0\Assignment01.pdb
+D:\COURSE\ASPNET_Course\Assignment01\obj\Debug\net10.0\Assignment01.genruntimeconfig.cache
+D:\COURSE\ASPNET_Course\Assignment01\obj\Debug\net10.0\ref\Assignment01.dll
+D:\COURSE\ASPNET_Course\Assignment01\obj\Debug\net10.0\Assignme.FB755A97.Up2Date
